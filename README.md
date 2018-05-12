@@ -1,4 +1,4 @@
-# china-coord-transform
+# coordinates-transform
 
 Tools for coordinates transformation between BD09, GCJ02 and WGS84。
 
@@ -19,7 +19,7 @@ npm install coord-transform
 ## Usage
 
 ```js
-const {bd09togcj02, gcj02tobd09, wgs84togcj02, gcj02towgs84} = require('china-coord-transform');
+const {bd09togcj02, gcj02tobd09, wgs84togcj02, gcj02towgs84} = require('coordinates-transform');
 
 // 百度转谷歌、高德、腾讯
 // Baidu Map to Google Map / AutoNavi Map / Tencent Map
