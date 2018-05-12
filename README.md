@@ -13,7 +13,7 @@ WGS84: World Geodetic System
 ## Install
 
 ```
-npm install coord-transform
+npm install coordinates-transform
 ```
 
 ## Usage
