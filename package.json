@@ -1,6 +1,6 @@
 {
   "name": "coordinates-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tools for coordinates transformation between BD09, GCJ02 and WGS84",
   "main": "index.js",
   "scripts": {
