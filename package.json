@@ -1,5 +1,5 @@
 {
-  "name": "coord-transform",
+  "name": "china-coord-transform",
   "version": "1.0.0",
   "description": "Tools for coordinates transformation between BD09, GCJ02 and WGS84",
   "main": "index.js",
